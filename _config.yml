@@ -30,7 +30,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I am poking around and testing things out.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://elwebman.github.io" # the base hostname & protocol for your site
-twitter_username: navvenshady
+twitter_username: elwebman_nl
 github_username:  elwebman
 css: "cyan"
 scroll-cursor: "#00BCD4"
