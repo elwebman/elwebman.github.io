@@ -23,11 +23,11 @@
 
 
 # Site settings
-title: material
-email: naveen@pixelblenders.com
+title: elwebman.nl
+email: alexolivet@yahoo.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hello, I'm Naveen, a freelance front-end developer
-  and UI designer. Check out my projects on GitHub
+  Hello, I'm elwebman, a dedicated learner and completely new to GitHub
+  I am poking around and testing things out.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://naveenshaji.github.io/material" # the base hostname & protocol for your site
 twitter_username: navvenshady
